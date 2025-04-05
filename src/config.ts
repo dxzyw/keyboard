@@ -1,5 +1,5 @@
 export const SITE = {
-  title: '机械键盘选购',
+  title: 'keyboard',
   author: '键盘说',
   description: '机械键盘选购攻略，数码产品介绍',
   keywords: '机械键盘、键盘、游戏、数码',
